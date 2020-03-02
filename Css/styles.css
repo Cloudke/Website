@@ -65,6 +65,12 @@ p {
   text-decoration: none;
 }
 
+.email{
+  background: lightblue;
+  border-radius: 5px;
+  padding: 5px 10px 5px 10px;
+}
+
 .fa-linkedin{
   color: #0072b1;
   margin-right: 5px;
